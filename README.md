@@ -139,3 +139,4 @@ Expected status codes were checked against the RealWorld spec's own conformance 
 
 - Time spent: **_[fill in honestly]_**
 - AI assistance: **_[describe how you used it]_**. I can walk through and defend every line.
+# conduit-qa
